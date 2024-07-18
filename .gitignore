@@ -3,3 +3,5 @@
 /.debug
 /ignore
 /geodata
+/.vscode
+converter/.vscode

@@ -13,6 +13,7 @@ extern crate nalgebra as na;
 // use std::vec;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
+    println!("HEYYYYYYYYY");
 
     // let (a_x, a_y) = world_to_pixel(&geo_transform, 40.32195, -7.6134638889)?;
     // let (b_x, b_y) = world_to_pixel(&geo_transform, 40.2838055556, -7.5478777778)?;
