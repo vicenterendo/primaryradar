@@ -1,0 +1,19 @@
+[package]
+name = "primaryradar"
+version = "0.1.0"
+edition = "2021"
+description = "Primary Radar Helper"
+
+# [package.metadata.bundle]
+# name = "primaryradar"
+# identifier = "com.vicenterendo.primaryradar"
+# version = "0.1.0"
+# resources = ["gdalbin\\*.dll"]
+
+[dependencies]
+serde = "1.0.204"
+serde_json = "1.0.120"
+bincode = "1.3"
+gdal = "0.16.0"
+nalgebra = "0.33.0"
+
