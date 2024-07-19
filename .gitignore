@@ -1,7 +1,8 @@
-/target
-/geotiff
-/.debug
-/ignore
-/geodata
-/.vscode
-converter/.vscode
+helper/target
+helper/.debug
+helper/ignore
+helper/geodata
+plugin/Debug
+.vscode
+Cargo.lock
+.vs
