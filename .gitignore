@@ -1,8 +1,9 @@
 helper/target
 helper/.debug
-helper/ignore
-helper/geodata
+ignore
+geodata
 plugin/Debug
 .vscode
 Cargo.lock
 .vs
+target
