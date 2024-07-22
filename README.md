@@ -1,5 +1,5 @@
 # 📡 PrimaryRadar Plugin
-The PrimaryRadar Euroscope plugin provides simulation for a primary radar, taking into account terrain and radar range and other properties.
+The PrimaryRadar Euroscope plugin simulates a primary radar, taking into account terrain, range and other parameters.
 
 ![README-02](https://github.com/user-attachments/assets/28e58c7f-3d9d-4cd1-87c2-2944920439bd)
 
