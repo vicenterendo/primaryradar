@@ -1,7 +1,8 @@
 # 📡 PrimaryRadar Plugin
 The PrimaryRadar Euroscope plugin provides simulation for a primary radar, taking into account terrain and radar range and other properties.
 
-![README-02](https://github.com/user-attachments/assets/a89f2f38-0b67-416a-99e2-9df8b647d030)
+![README-02](https://github.com/user-attachments/assets/28e58c7f-3d9d-4cd1-87c2-2944920439bd)
+
 
 ## 📄 Terrain Data
 Terrain data should be converted from the Geotiff format to the format described on the above image using the `/converter` tool.
